@@ -1,0 +1,20 @@
+
+glide_text2im/__pycache__/__init__.cpython-37.pyc
+glide_text2im/__pycache__/download.cpython-37.pyc
+glide_text2im/__pycache__/fp16_util.cpython-37.pyc
+glide_text2im/__pycache__/gaussian_diffusion.cpython-37.pyc
+glide_text2im/__pycache__/model_creation.cpython-37.pyc
+glide_text2im/__pycache__/nn.cpython-37.pyc
+glide_text2im/__pycache__/respace.cpython-37.pyc
+glide_text2im/__pycache__/text2im_model.cpython-37.pyc
+glide_text2im/__pycache__/unet.cpython-37.pyc
+glide_text2im/__pycache__/xf.cpython-37.pyc
+glide_model_cache/base.pt
+glide_model_cache/clip_image_enc.pt
+glide_model_cache/clip_image_enc.pt.tmp
+glide_model_cache/clip_text_enc.pt
+glide_model_cache/upsample.pt
+glide_model_cache/upsample.pt.tmp
+Evaluation Models/dogGLIDE.pt
+Evaluation Models/miniGLIDE.pt
+Evaluation Models/miniGLIDEsimple.pt
