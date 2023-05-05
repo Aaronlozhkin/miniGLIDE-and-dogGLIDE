@@ -1,0 +1,1 @@
+This is the folder where you want to save various models such as [miniGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link) and [dogGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link)
