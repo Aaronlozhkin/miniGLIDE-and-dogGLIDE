@@ -1,9 +1,9 @@
 # miniGLIDE: Towards a Photo-Realistic Text to Image Model with a Reduction in Parameters
 
-This repository is the attatched code to the FinalReport.pdf
+This repository is the attatched code to the low parameter GLIDE project for Rutgers CS:533 Natural Language Processing.
 
 ## Sampling dogGLIDE or miniGLIDE
-If you would just like to sample the given models, feel free to download them: [miniGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link) and [dogGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link). Place them in the [Evaluation Models](Evaluation Models) folder and run through the SamplingDemo notebook to try our models out.
+If you would just like to sample the given models, feel free to download them: [miniGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link) and [dogGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link). Place them in the [glide_model_cache](glide_model_cache) folder and run through the SamplingDemo notebook to try our models out.
 
 ## Training your own model
 If you would like to try and train your own version of this model, please refer to [trainGLIDE.py](trainGLIDE.py) where the following parameters are relevant:
