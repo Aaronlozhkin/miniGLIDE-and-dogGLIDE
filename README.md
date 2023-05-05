@@ -8,7 +8,11 @@ Please click [here](https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/blob/
 If you would just like to sample the given models, feel free to download them: [miniGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link) and [dogGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link). Place them in the [glide_model_cache](glide_model_cache) folder and run through the SamplingDemo notebook to try our models out.
 
 ## Training your own model
-If you would like to try and train your own version of this model, please refer to [trainGLIDE.py](trainGLIDE.py) where the following parameters are relevant:
+If you would like to try and train your own version of this model, please refer to [trainGLIDE.py](trainGLIDE.py)
+
+Currently the script only supports trainign on the [sbucaptions dataset](https://www.cs.rice.edu/~vo9/sbucaptions/) and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). However, with some minor tunings of file structure any (image, caption) dataset will work.
+
+### Parameters:
 
 - `--data-dir`: The directory where your input data is located. The script currently supports the sbucaptions dataset and the images folder of the Stanford Dog Dataset. Default is 'Data/sbucaptions'.
 - `--image-limit`: The maximum number of images to load from the sbucaptions dataset. Default is 100,000. All images are always loaded from the dog dataset.
