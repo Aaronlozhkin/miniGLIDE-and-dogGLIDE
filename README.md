@@ -2,7 +2,7 @@
 
 This repository is the attatched code to the low parameter GLIDE project for Rutgers CS:533 Natural Language Processing. This project was heavily inspired from [Nichol et. al. (2021) GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741).
 
-Please click [here](FinalReport.pdf) to view the Final Report for our project.
+Please click [here](Final Report.pdf) to view the Final Report for our project.
 
 ## Sampling dogGLIDE or miniGLIDE
 If you would just like to sample the given models, feel free to download them: [miniGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link) and [dogGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link). Place them in the [glide_model_cache](glide_model_cache) folder and run through the SamplingDemo notebook to try our models out.
