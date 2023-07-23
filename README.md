@@ -10,7 +10,7 @@ If you would just like to sample the given models, feel free to download them: [
 ## Training your own model
 If you would like to try and train your own version of this model, please refer to [trainGLIDE.py](trainGLIDE.py)
 
-Currently the script only supports trainign on the [sbucaptions dataset](https://www.cs.rice.edu/~vo9/sbucaptions/) and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). However, with some minor tunings of file structure any (image, caption) dataset will work.
+Currently the script only supports training on the [sbucaptions dataset](https://www.cs.rice.edu/~vo9/sbucaptions/) and the [Stanford Dog Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). However, with some minor tunings of file structure any (image, caption) dataset will work.
 
 ### Parameters:
 
