@@ -4,6 +4,8 @@ This repository is the attatched code to the low parameter GLIDE project for Rut
 
 Please click [here](https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/blob/main/Final%20Report.pdf) to view the Final Report for our project.
 
+![image](https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/assets/23532191/524b2e9e-4b67-45e6-955a-2aecca33e5c1)
+
 ## Sampling dogGLIDE or miniGLIDE
 
 <a target="_blank" href="https://colab.research.google.com/github/Aaronlozhkin/miniGLIDE-and-dogGLIDE/blob/main/SamplingDemo.ipynb">
