@@ -5,7 +5,13 @@ This repository is the attatched code to the low parameter GLIDE project for Rut
 Please click [here](https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/blob/main/Final%20Report.pdf) to view the Final Report for our project.
 
 ## Sampling dogGLIDE or miniGLIDE
-If you would just like to sample the given models, feel free to download them: [miniGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link) and [dogGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link). Place them in the [glide_model_cache](glide_model_cache) folder and run through the SamplingDemo notebook to try our models out.
+
+<a target="_blank" href="https://colab.research.google.com/github/Aaronlozhkin/miniGLIDE-and-dogGLIDE/blob/main/SamplingDemo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+Please refer to the [Sampling Demo](https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/blob/main/SamplingDemo.ipynb) for easy sampling of our pretrained models.
+
+If you would like to sample the given models on your local machine manually, feel free to download them: [miniGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link) and [dogGLIDE](https://drive.google.com/file/d/1NXGr6wMeYOU98nxivZNtZBWXFRU42XyU/view?usp=share_link). Place them in the [glide_model_cache](glide_model_cache) folder and run through the SamplingDemo notebook to try our models out.
 
 ## Training your own model
 If you would like to try and train your own version of this model, please refer to [trainGLIDE.py](trainGLIDE.py)
