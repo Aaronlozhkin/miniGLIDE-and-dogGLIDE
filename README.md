@@ -1,12 +1,12 @@
-# miniGLIDE
+# miniGLIDE and dogGLIDE
 
 *miniGLIDE was created for Rutgers CS:533 Natural Language Processing. Special thanks to [Nichol et. al. (2021) GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741) for heavy project inspiration.*
 
 [Aaron Lozhkin, Srinihar Bondalapati, Jinal Shah (2023) miniGLIDE: Towards a Photo-Realistic Text to Image Model With a Reduction in Parameters](https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/blob/main/Final%20Report.pdf)
 
 <p>
-  <img src="https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/assets/23532191/7f802482-40e7-4fee-aaaf-b0dab1e18747" alt="Sample" width="500" />
-  <img src= "https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/assets/23532191/b8b2d55e-f922-41fc-a357-ca7ec4183f10" width = "500"/>
+  <img src="https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/assets/23532191/7f802482-40e7-4fee-aaaf-b0dab1e18747" alt="Sample" width="400" />
+  <img src= "https://github.com/Aaronlozhkin/miniGLIDE-and-dogGLIDE/assets/23532191/b8b2d55e-f922-41fc-a357-ca7ec4183f10" width = "400"/>
 </p>
 
 miniGlide and dogGLIDE are text-to-image diffusion models implemented with classifier-free guidance. Both models consist of approximately 1.5 million parameters, a significant reduction compared to state-of-the-art diffusion models. Although outputs are not qualitatively comparable, these models were trained from scratch on a single GPU and show the capabilities of diffusion models with significant parameter reduction. 
